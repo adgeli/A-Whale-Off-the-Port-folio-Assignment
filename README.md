@@ -4,6 +4,12 @@
 
 *This repo contains the Unit 4 Pandas homework assignment; A Whale Off the Port(folio) for UofT's SCS FinTech bootcamp program.*
 
+## Table of Contents
+
+- [Project Description](#Project-Description)
+- [Installation Requirements](#Installation-Requirements)
+- [File Contents](#File-Contents)
+
 ## Project Description
 
 ---
@@ -13,6 +19,12 @@ The following assignment conducts a financial analysis of portfolios containing 
 Additionally, the same metrics are applied to develop and analyze a custom portfolio. The purpose of the personal portfolio is to compare its results to those in part one of the assignment and assess the equities returns.
 
 ![projectimage](Instructions/Images/project_image.png)
+
+### Assignment File Location:
+
+*The assignment file, "whale_analysis.ipynb" is located in:*
+ 
+    Parent Folder -> Instructions -> Starter Code
 
 ## Installation Requirements
 
